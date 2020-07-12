@@ -1,2 +1,0 @@
-# simply-static
-Simply Static
